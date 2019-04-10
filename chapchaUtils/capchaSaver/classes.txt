@@ -1,0 +1,6 @@
+traffic_lights
+crosswalks
+buses
+cars
+shop_windows
+carss
